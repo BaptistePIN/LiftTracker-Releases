@@ -1,4 +1,4 @@
-# LiftTracker - Releases
+# TrackLift - Releases
 
 Application Android de suivi d'entraînement sportif.
 
