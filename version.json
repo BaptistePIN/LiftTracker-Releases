@@ -1,0 +1,7 @@
+{
+  "latest_version": "0.8.0",
+  "version_code": 8,
+  "release_notes": "🐛 Correction import/export JSON\n📅 Correction alignement calendrier\n🔥 Série consécutive corrigée\n✅ Jours complétés améliorés",
+  "download_url": "https://github.com/BaptistePIN/LiftTracker-Releases/releases/download/v0.8.0/tracklift-v0.8.0.apk",
+  "min_supported_version": "0.5.0"
+}
