@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.2",
-  "version_code": 10,
-  "release_notes": "[FIX] automatic updates verificaton with app",
+  "latest_version": "0.9.5",
+  "version_code": 11,
+  "release_notes": "[FIX] automatic lastest updates verificaton with app",
   "download_url": "https://github.com/BaptistePIN/LiftTracker-Releases/releases/latest/download/app-release-unsigned.apk",
   "min_supported_version": "0.5.0"
 }
