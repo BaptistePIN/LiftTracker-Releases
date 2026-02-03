@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.9.7",
-  "version_code": 12,
-  "release_notes": "[FIX] import programmes mod and share mod",
+  "latest_version": "0.9.8",
+  "version_code": 13,
+  "release_notes": "[FIX] import programmes mod in Android 14",
   "download_url": "https://github.com/BaptistePIN/LiftTracker-Releases/releases/latest/download/app-release-unsigned.apk",
   "min_supported_version": "0.5.0"
 }
